@@ -1,0 +1,4 @@
+add recursive drawing of shaceships
+add noir flickering when objects collide
+add alert that tells you how long you surived
+add close combat weapon
