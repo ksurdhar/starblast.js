@@ -1,4 +1,8 @@
-add recursive drawing of shaceships
-add noir flickering when objects collide
-add alert that tells you how long you surived
+collect stars until you can power up into ghost mode. 
+stars randomly regenerate
+
+
+add noir flickering when objects collide - everything inverts colors very quickly 
+add a hud with points and health etc
+
 add close combat weapon
