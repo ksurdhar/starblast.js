@@ -1,8 +1,26 @@
-collect stars until you can power up into ghost mode. 
-stars randomly regenerate
+chase something without hitting other objects
+
+these objects appear momentarily before disappearing - could be one of the stars at random
+as you collect these your ship's color changes, could blink
+screen inverts dramatically when you collect three
 
 
-add noir flickering when objects collide - everything inverts colors very quickly 
-add a hud with points and health etc
+collect powerups without colliding
+collect 3, ghost mode occurs
+5 second time limit on ghost mode
+asteroids grow larger and faster as they decrease in number
 
-add close combat weapon
+
+
+
+every 10 seconds, select one star at random to be powerup for 5 seconds
+requires a powerup boolean on star object
+if powerup, change color // eventually pulse
+
+if ship collides with star that powerup equals true
+add to powerLevel, change ship color // get ship to pulse
+
+if ship collides with an asteroid, powerlevel should go down
+
+
+
